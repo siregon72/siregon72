@@ -58,14 +58,3 @@
 
 <br>
 
-<!-- ==================== CURRENTLY LEARNING ==================== -->
-
-## 📚 Currently Learning
-
-```text
-📱 Flutter & Dart
-🌐 React & Next.js
-🟦 TypeScript
-⚡ Supabase
-🔧 Git & GitHub
-🧠 Algorithm
