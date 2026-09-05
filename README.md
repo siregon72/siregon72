@@ -58,30 +58,6 @@
 
 <br>
 
-<!-- ==================== PROJECTS ==================== -->
-
-## 🚀 Projects
-
-### ⏱ Study Timer
-
-공부할 때 타이머를 실행하고 날짜별 누적 공부 시간을 기록할 수 있는 웹 서비스입니다.
-
-**Tech Stack**
-
-`Next.js` `TypeScript` `Tailwind CSS` `Supabase`
-
-<br>
-
-### 📝 Flutter Memo
-
-Flutter를 이용하여 제작한 메모 애플리케이션입니다.
-
-**Tech Stack**
-
-`Flutter` `Dart`
-
-<br>
-
 <!-- ==================== CURRENTLY LEARNING ==================== -->
 
 ## 📚 Currently Learning
