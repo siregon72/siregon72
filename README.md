@@ -1,32 +1,50 @@
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=230&section=header&text=SIHOON&fontSize=75&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Student%20Developer%20%C2%B7%20Flutter%20%C2%B7%20Web&descSize=20&descAlignY=55"
-/>
+# ⚡ SIHOON
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=Flutter+Developer;Frontend+Developer;Building+Something+Awesome;Learning+Every+Day"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Flutter+Developer;Frontend+Developer;Next.js+Developer;Building+Something+Awesome;Learning+Every+Day"
 />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=siregon72&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 
 </div>
+
+<br>
+
+---
 
 ## 👨‍💻 About Me
 
 ```typescript
 const sihoon = {
   role: "Student Developer",
-  interests: ["Flutter", "Frontend", "Web Development"],
-  currentlyLearning: ["Flutter", "Next.js", "Supabase"],
-  goal: "Build useful and interesting products 🚀",
+
+  stack: {
+    app: ["Flutter", "Dart"],
+    frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
+    backend: ["Supabase"],
+    cloud: ["Cloudflare"],
+  },
+
+  currentlyLearning: [
+    "Flutter",
+    "Next.js",
+    "Supabase",
+    "Algorithms"
+  ],
+
+  goal: "Build awesome products 🚀",
 };
 ```
 
-> 새로운 기술을 배우고 직접 프로젝트로 만들어보는 것을 좋아합니다.
-
 <br>
 
-## 🛠 Skills & Tools
+---
+
+# 🛠 Tech Universe
 
 ### 📱 Frontend & App
 
@@ -60,32 +78,43 @@ const sihoon = {
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ⏱ Study Timer
+<h3 align="center">⏱ Study Timer</h3>
 
-공부 시간을 측정하고 날짜별로 누적 공부 시간을 기록하는 웹 서비스입니다.
+<p align="center">
+공부 시간을 측정하고 날짜별로<br>
+누적 공부 시간을 기록하는 웹 서비스
+</p>
 
-**Tech Stack**
+<p align="center">
 
-`Next.js` `TypeScript` `Tailwind CSS` `Supabase`
+`Next.js` `TypeScript`  
+`Tailwind CSS` `Supabase`
+
+</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📝 Flutter Memo
+<h3 align="center">📝 Flutter Memo</h3>
 
-Flutter를 이용하여 제작한 메모 애플리케이션입니다.
+<p align="center">
+Flutter를 이용하여 제작하는<br>
+메모 애플리케이션
+</p>
 
-**Tech Stack**
+<p align="center">
 
 `Flutter` `Dart`
+
+</p>
 
 </td>
 
@@ -96,18 +125,18 @@ Flutter를 이용하여 제작한 메모 애플리케이션입니다.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=siregon72&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=siregon72&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
 />
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=siregon72&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=siregon72&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
 />
 
 </div>
@@ -117,6 +146,7 @@ Flutter를 이용하여 제작한 메모 애플리케이션입니다.
 <div align="center">
 
 <img
+  width="70%"
   src="https://streak-stats.demolab.com?user=siregon72&theme=tokyonight&hide_border=true"
 />
 
@@ -126,13 +156,13 @@ Flutter를 이용하여 제작한 메모 애플리케이션입니다.
 
 ---
 
-## 📈 Contribution Activity
+# 🌌 3D Contribution Universe
 
 <div align="center">
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=siregon72&theme=tokyo-night&hide_border=true"
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
 />
 
 </div>
@@ -141,7 +171,23 @@ Flutter를 이용하여 제작한 메모 애플리케이션입니다.
 
 ---
 
-## 📚 Currently Learning
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siregon72/siregon72/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siregon72/siregon72/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/siregon72/siregon72/output/github-snake.svg">
+</picture>
+
+</div>
+
+<br>
+
+---
+
+# 📚 Currently Exploring
 
 <div align="center">
 
@@ -158,13 +204,18 @@ Flutter를 이용하여 제작한 메모 애플리케이션입니다.
 
 <div align="center">
 
-### ✨ Keep Learning. Keep Building. ✨
+### 💫 Code. Learn. Build. Repeat.
+
+```text
+> initializing developer...
+> loading Flutter...
+> loading Next.js...
+> loading creativity...
+> status: READY 🚀
+```
 
 <br>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:7C3AED&height=130&section=footer"
-/>
+### ⭐ Thanks for visiting my profile ⭐
 
 </div>
