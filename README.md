@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=supabase,cloudflare,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=supabase,cloudflare&theme=dark" />
 
 </div>
 
