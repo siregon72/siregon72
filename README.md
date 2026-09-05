@@ -3,12 +3,12 @@
 <div align="center">
 
 <img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:3B82F6,100:06B6D4&height=220&section=header&text=SIHOON&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student Developer · Flutter · Web&descAlignY=58&descSize=20"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,50:3B82F6,100:06B6D4&amp;height=220&amp;section=header&amp;text=SIHOON&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Student%20Developer%20%C2%B7%20Flutter%20%C2%B7%20Web&amp;descAlignY=58&amp;descSize=20"
 />
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Flutter+Developer;Frontend+Developer;Learning+%26+Building"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=25&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Flutter+Developer;Frontend+Developer;Learning+%26+Building"
 />
 
 </div>
