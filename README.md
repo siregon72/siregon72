@@ -1,3 +1,4 @@
+```asm
 section .data
 
 name:  db "siregon72"
@@ -11,3 +12,4 @@ global _start
 _start:
     call reverse
     jmp keep_learning
+```
